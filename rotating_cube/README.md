@@ -17,11 +17,12 @@ To install Pygame, you can use pip:
 ```bash
 pip install pygame
 ```
-Install PyOpenGL
+### Install PyOpenGL
 ```bash
 pip install PyOpenGL
-
-Install Git
+```
+## You can just copy the code above or clone using git 
+### Install Git
 If you don't have Git installed, you can download and install it from the official Git website: git-scm.com
 
 Clone the Repository
