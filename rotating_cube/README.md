@@ -16,7 +16,7 @@ To install Pygame, you can use pip:
 
 ```bash
 pip install pygame
-
+```
 Install PyOpenGL
 ```bash
 pip install PyOpenGL
